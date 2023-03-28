@@ -1,0 +1,49 @@
+body{    
+    background-color: #f6f0f1 ;
+    font-size: 15px;
+}
+.parent{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h1{
+ text-align: center;
+ border: 0.3rem solid #aa6f73;
+ border-radius: 1.7em;
+}
+.child{
+  width: 320px;
+  text-align: center;
+  border: 5px solid #aa6f73;
+  border-radius: 1.7em;
+  width: 320px;
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+}
+img{
+    width:250px;
+    height: 166.67px;
+    border-radius: 10px;
+    
+}
+.profiles1{
+    border: 5px solid #aa6f73;
+    border-radius: 1em;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#para{
+    border: 5px solid #aa6f73;
+    border-radius: 2em;
+    padding: 1em 1em 1em 1em;
+}
+
+.profile{
+    border: 5px solid #aa6f73;
+    border-radius: 1em;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
